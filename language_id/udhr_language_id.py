@@ -2,8 +2,8 @@ import nltk
 import os
 
 
-MY_PATH = "C:/Users/Justin/Desktop"
-MY_TEXT_FILE = os.path.join(MY_PATH, "english_sample-utf8.txt")
+MY_PATH = "C:/"
+MY_TEXT_FILE = os.path.join(MY_PATH, ".txt")
 
 
 languages = [['English', 'English-Latin1'], ['French', 'French_Francais-Latin1'],
